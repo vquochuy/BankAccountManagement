@@ -1,0 +1,4 @@
+AddressComponentData #class
+bank.account.management.AddressComponent #namespace
+address bank.account.management.Address #field
+address PERSISTENT #fieldModifier

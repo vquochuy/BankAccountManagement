@@ -1,0 +1,8 @@
+AccountHolderDialogData #class
+bank.account.management.AccountHolderDialog #namespace
+accountHolder bank.account.management.AccountHolder #field
+accountHolder PERSISTENT #fieldModifier
+nextView String #field
+nextView PERSISTENT #fieldModifier
+currentView String #field
+currentView PERSISTENT #fieldModifier

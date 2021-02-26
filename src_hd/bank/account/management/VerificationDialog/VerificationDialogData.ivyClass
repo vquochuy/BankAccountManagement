@@ -1,0 +1,4 @@
+VerificationDialogData #class
+bank.account.management.VerificationDialog #namespace
+accountHolder bank.account.management.AccountHolder #field
+accountHolder PERSISTENT #fieldModifier

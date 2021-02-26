@@ -1,0 +1,22 @@
+AccountHolder #class
+bank.account.management #namespace
+firstName String #field
+firstName PERSISTENT #fieldModifier
+lastName String #field
+lastName PERSISTENT #fieldModifier
+deliveryAddress bank.account.management.Address #field
+deliveryAddress PERSISTENT #fieldModifier
+billingAddress bank.account.management.Address #field
+billingAddress PERSISTENT #fieldModifier
+birthday java.util.Date #field
+birthday PERSISTENT #fieldModifier
+email String #field
+email PERSISTENT #fieldModifier
+paymentKind String #field
+paymentKind PERSISTENT #fieldModifier
+creditCardNumber String #field
+creditCardNumber PERSISTENT #fieldModifier
+isVerified Boolean #field
+isVerified PERSISTENT #fieldModifier
+rejectedReason String #field
+rejectedReason PERSISTENT #fieldModifier

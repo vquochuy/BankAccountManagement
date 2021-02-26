@@ -1,0 +1,4 @@
+AccountHolderManagementData #class
+bank.account.management #namespace
+accountHolder bank.account.management.AccountHolder #field
+accountHolder PERSISTENT #fieldModifier
